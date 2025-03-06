@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15823f1a4d3c499f81c6768971dab336, type: 3}
+  m_Name: ClickButtonConfig
+  m_EditorClassIdentifier: 
+  DefaultSprite: {fileID: -556663896244417668, guid: f846b0165f24a854f804d3dcb1cb05d7, type: 3}
+  ButtonColors:
+    m_NormalColor: {r: 0.93962264, g: 0.9201211, b: 0.9201211, a: 1}
+    m_HighlightedColor: {r: 0.82641506, g: 0.2229761, b: 0.2229761, a: 0}
+    m_PressedColor: {r: 0.09199708, g: 0.82641506, b: 0.2066226, a: 1}
+    m_SelectedColor: {r: 0.05859016, g: 0.24199434, b: 0.79622644, a: 1}
+    m_DisabledColor: {r: 0.6075471, g: 0.07680311, b: 0.5683278, a: 0}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0
